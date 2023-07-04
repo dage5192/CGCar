@@ -1,0 +1,18 @@
+newmtl Lamborghini_Aventador:BodySG
+illum 1
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Lamborginhi_Aventador_diffuse.jpeg
+map_Ks Lamborginhi_Aventador_spec.jpeg
+map_Ns Lamborginhi_Aventador_gloss.jpeg
+map_Bump Lamborginhi_Aventador_normal.jpg
+
+newmtl Lamborghini_Aventador:GlassSG
+illum 1
+map_Kd Lamborginhi_Aventador_diffuse.jpeg
+map_Ks Lamborginhi_Aventador_spec.jpeg
+map_Ns Lamborginhi_Aventador_gloss.jpeg
+map_Bump Lamborginhi_Aventador_normal.jpg
+Ka 0.00 0.00 0.00
+Tf 0.06 0.06 0.06
+Ni 1.00

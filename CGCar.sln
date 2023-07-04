@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CGCar", "CGCar\CGCar.vcxproj", "{42D91502-6667-4EB9-8BF7-9654D62BB628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42D91502-6667-4EB9-8BF7-9654D62BB628}.Debug|x64.ActiveCfg = Debug|x64
+		{42D91502-6667-4EB9-8BF7-9654D62BB628}.Debug|x64.Build.0 = Debug|x64
+		{42D91502-6667-4EB9-8BF7-9654D62BB628}.Debug|x86.ActiveCfg = Debug|Win32
+		{42D91502-6667-4EB9-8BF7-9654D62BB628}.Debug|x86.Build.0 = Debug|Win32
+		{42D91502-6667-4EB9-8BF7-9654D62BB628}.Release|x64.ActiveCfg = Release|x64
+		{42D91502-6667-4EB9-8BF7-9654D62BB628}.Release|x64.Build.0 = Release|x64
+		{42D91502-6667-4EB9-8BF7-9654D62BB628}.Release|x86.ActiveCfg = Release|Win32
+		{42D91502-6667-4EB9-8BF7-9654D62BB628}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26D26D89-369F-4162-A6AD-20834ACB6A18}
+	EndGlobalSection
+EndGlobal
